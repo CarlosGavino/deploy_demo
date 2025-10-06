@@ -1,0 +1,5 @@
+name: Deploy Angular App
+
+on:
+  push:
+    branches: [main]
